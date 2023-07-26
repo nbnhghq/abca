@@ -3,7 +3,7 @@ command not found: node
 
 $ sh <(curl tea.xyz) --yes
 installing ~/.tea…
-
+add
 $ node --eval 'console.log("Hello World!")'
 tea: installing nodejs.org^19
 Hello World!
